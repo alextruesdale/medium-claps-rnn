@@ -1,0 +1,14 @@
+/slides
+
+.DS_Store
+__pycache__
+.ipynb_checkpoints
+*.html
+*.key
+*.mp4
+*.pdf
+*.csv
+
+mini_challenge_02
+mini_challenge_01
+exercises
