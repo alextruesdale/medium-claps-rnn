@@ -1,5 +1,6 @@
 /slides
 
+.gitignore
 .DS_Store
 __pycache__
 .ipynb_checkpoints
@@ -11,4 +12,6 @@ __pycache__
 
 mini_challenge_02
 mini_challenge_01
+final_assignment
+predictions
 exercises
