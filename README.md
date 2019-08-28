@@ -2,7 +2,7 @@
   <img src='https://github.com/alextruesdale/medium-claps-rnn/blob/master/repository_media/HU.png' alt='HU logo' title='HU' align='right' height='80' />
 </a>
 
-# HU Kaggle Comp. – Medium Claps Prediction
+# HU Kaggle Competition – Medium Claps Prediction
 
 For the Advanced Data Analtics for Mgmt. Support course at the chair of Information Systems, Humboldt-Universität zu Berlin, students participated in an [in-class data science competition on Kaggle](https://www.kaggle.com/c/adams-nlp-ss19/). The target was to predict, using ~279.5k rows of labelled data, the count of claps an article has received on the publishing platform Medium.com. Features in the data were limited to basic details about a given article: publish date; author; publisher; number of words; and, foremost, the article and teaser text, respectively. The regression task of predicting claps was performed using a recurrent neural network (specifically GRU), in order to capture the sequential nature of text data and thereby account for contextual meaning in an article.
 
