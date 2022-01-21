@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 h5py = "==2.9.0"
 ipykernel = "==5.1.0"
-ipython = "==7.4.0"
+ipython = "==7.16.3"
 jupyter = "==1.0.0"
 jupyterlab = "==0.35.4"
 matplotlib = "==3.1.0"
